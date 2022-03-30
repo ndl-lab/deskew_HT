@@ -3,7 +3,7 @@
 本プログラムは、国立国会図書館が株式会社モルフォAIソリューションズに委託して作成したものです。
 本プログラム内の[alyn3](alyn3)は以下のリポジトリのコードを参照し、python3化・高速化等を行い作成しました。
 
-[kakul/Alyn/alyn](https://github.com/kakul/Alyn/alyn)
+[kakul/Alyn/alyn](https://github.com/kakul/Alyn)
 
 # Overview
 入力画像の直線要素を検出することで画像の傾きを推定し、傾きを補正した画像を出力する。
