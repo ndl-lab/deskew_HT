@@ -1,0 +1,16 @@
+# image files
+*.jp2
+*.jpg
+*.JPG
+*.png
+
+# log
+*.txt
+
+# annotation
+*.xml
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
